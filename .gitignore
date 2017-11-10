@@ -1,5 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-.gitignore
 .idea/
 .ipynb_checkpoints/
 text.model.bin
@@ -11,3 +10,4 @@ text8.zip
 word2vector.model
 word2vector.model.syn1neg.npy
 word2vector.model.wv.syn0.npy
+*.tar.gz
